@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.size{
+	border:1px solid black;
+}
+td,th{
+	border:1px solid black;
+}
